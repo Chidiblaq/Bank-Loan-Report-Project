@@ -95,5 +95,6 @@ I welcome contributions to enhance the functionality and usability of the dashbo
 - Commit your changes and push them to your fork.  
 - Submit a pull request with a detailed description of your changes.  
 
+Included in this repository is the Dashboard Report, the SQL query file and the dataset.  
 
 I hope you find the Bank Loan Report Dashboard useful for your data analysis needs. For any questions or feedback, please open an issue in the repository. Happy analyzing!
