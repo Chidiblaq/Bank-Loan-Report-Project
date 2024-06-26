@@ -1,5 +1,6 @@
 # Bank Loan Report Dashboard
-Welcome to the Bank Loan Report Dashboard project! This repository contains the code and documentation for a comprehensive and user-friendly interface designed to access vital loan data. The dashboard serves as a one-stop solution for users seeking detailed insights into the loan portfolio, borrower profiles, and loan performance.
+Welcome to the Bank Loan Report Dashboard project! This repository contains the code and documentation for a comprehensive and user-friendly interface designed to access vital loan data. The dashboard serves as a one-stop solution for users seeking detailed insights into the loan portfolio, borrower profiles, and loan performance.  
+This is the link to interact and navigate the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGZjOGJmZmYtMzYwMC00MDhhLWJjODYtZDY3YTZjMGU2ODM4IiwidCI6ImQwZWYwYjU4LWQ0YTItNGJjZS1iMDFiLTQxZWQ0ZGMyZjU3ZSJ9)
 
 ### Table of Contents  
 - Overview  
